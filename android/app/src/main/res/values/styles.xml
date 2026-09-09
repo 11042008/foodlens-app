@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.FoodLens" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#00F2FE</item>
+        <item name="colorPrimaryVariant">#0099B8</item>
+        <item name="colorOnPrimary">#010307</item>
+        <item name="android:statusBarColor">#010307</item>
+        <item name="android:navigationBarColor">#010307</item>
+        <item name="android:windowBackground">#010307</item>
+    </style>
+</resources>

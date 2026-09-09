@@ -1,0 +1,1 @@
+// FoodLens Application Component
